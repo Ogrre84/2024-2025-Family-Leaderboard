@@ -1,8 +1,5 @@
-
-
-
 // Replace with your Google Sheets ID and API key
-const sheetId = 'family-leader-board';
+const sheetId = 'https://docs.google.com/spreadsheets/d/1WJCZrAGhfW6bYcPxutmsuMiG3ueOIAAOlaSmJzooICM/edit';
 const apiKey = 'AIzaSyDsRZsQbQyu_WJomed9GG51fQuV0awUFnI';
 
 async function fetchLeaderboard() {
